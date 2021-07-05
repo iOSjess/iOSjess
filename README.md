@@ -24,5 +24,5 @@ You'll find a wide array of languages and project types peppered throughout my p
 
 - 👯 I’m looking to collaborate on apps in the health, financial or security industries.
 - 🌱 I’m currently learning HTML5 and Swift (always learning Swift).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessie-ann-elliott/) or [Twitter](https://twitter.com/iOSjess)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessie-a-elliott/) or [Twitter](https://twitter.com/iOSjess)
 - ⚡ Fun fact: one of my cats is named after Benedict Cumberbatch (but she's a girl and I call her Beni).
